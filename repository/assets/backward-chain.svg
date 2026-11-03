@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="455" viewBox="0 0 800 455" role="img" aria-labelledby="title">
+<title id="title">Backward chaining: a goal needs support</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="43" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#222222">Backward chaining: a goal needs support</text>
+<rect x="255" y="66" width="290" height="77" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="99" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Goal: recommend</text>
+<text x="400.0" y="129" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Which rule could conclude it?</text>
+<path d="M400,148 L400,173" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,173 L395.0,164.3397459621556" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,173 L405.0,164.3397459621556" stroke="#444444" stroke-width="2" fill="none"/>
+<rect x="255" y="180" width="290" height="79" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="213" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">R2 needs BOTH</text>
+<text x="400.0" y="243" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">suitable AND open</text>
+<path d="M400,264 L400,286" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M180,286 L620,286" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M180,286 L180,311" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M180,311 L175.0,302.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M180,311 L185.0,302.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M620,286 L620,311" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M620,311 L615.0,302.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M620,311 L625.0,302.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<rect x="30" y="319" width="300" height="91" rx="8" fill="#f0f0f0"/>
+<text x="180.0" y="352" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Prove suitable</text>
+<text x="180.0" y="382" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">R1 needs quiet AND solo</text>
+<rect x="470" y="319" width="300" height="91" rx="8" fill="#f0f0f0"/>
+<text x="620.0" y="352" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Establish open</text>
+<text x="620.0" y="382" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Known fact, or ask for it</text>
+</svg>

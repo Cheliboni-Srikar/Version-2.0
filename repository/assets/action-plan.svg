@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320" role="img" aria-labelledby="title">
+<title id="title">A valid plan checks preconditions in order</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="43" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#222222">A valid plan checks preconditions in order</text>
+<rect x="15" y="96" width="225" height="123" rx="8" fill="#f0f0f0"/>
+<text x="127.5" y="129" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Start</text>
+<text x="127.5" y="159" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">at entrance</text>
+<text x="127.5" y="183" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">desk free</text>
+<text x="127.5" y="207" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">socket working</text>
+<rect x="288" y="96" width="225" height="123" rx="8" fill="#f0f0f0"/>
+<text x="400.5" y="129" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">After walk</text>
+<text x="400.5" y="159" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">at desk</text>
+<text x="400.5" y="183" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">desk free</text>
+<text x="400.5" y="207" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">socket working</text>
+<rect x="561" y="96" width="225" height="123" rx="8" fill="#f0f0f0"/>
+<text x="673.5" y="129" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">After plug in</text>
+<text x="673.5" y="159" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">at desk, desk free</text>
+<text x="673.5" y="183" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">socket working</text>
+<text x="673.5" y="207" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">laptop plugged</text>
+<path d="M246,154 L281,154" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M281,154 L272.33974596215563,159.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M281,154 L272.33974596215563,149.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M520,154 L553,154" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M553,154 L544.3397459621556,159.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M553,154 L544.3397459621556,149.0" stroke="#444444" stroke-width="2" fill="none"/>
+<text x="263" y="254" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#222222">walk</text>
+<text x="537" y="254" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#222222">plug in</text>
+<text x="400" y="300" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#444444">The first action establishes a precondition for the second.</text>
+</svg>

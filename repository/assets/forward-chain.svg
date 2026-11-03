@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="title">
+<title id="title">Forward chaining: facts to conclusions</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="43" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#222222">Forward chaining: facts to conclusions</text>
+<rect x="185" y="64" width="430" height="80" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="97" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Initial facts</text>
+<text x="400.0" y="127" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">quiet, solo, open</text>
+<path d="M400,149 L400,173" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,173 L395.0,164.3397459621556" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,173 L405.0,164.3397459621556" stroke="#444444" stroke-width="2" fill="none"/>
+<rect x="185" y="180" width="430" height="82" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="213" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">R1: quiet AND solo</text>
+<text x="400.0" y="243" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Add suitable</text>
+<path d="M400,268 L400,292" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,292 L395.0,283.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,292 L405.0,283.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<rect x="185" y="299" width="430" height="82" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="332" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">R2: suitable AND open</text>
+<text x="400.0" y="362" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Add recommend</text>
+<text x="400" y="437" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#222222">Keep the earlier facts as well as the new conclusions.</text>
+<text x="400" y="473" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#444444">The result depends on the facts and the accepted rules.</text>
+</svg>

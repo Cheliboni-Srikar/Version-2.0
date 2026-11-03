@@ -1,0 +1,19 @@
+All five facts
+Inputs: open_A, power, power_A, quiet, quiet_A
+R4: power AND quiet -> needs_quiet_power
+R5: needs_quiet_power AND open_A AND power_A AND quiet_A -> recommend_A
+Room A is supported by the current facts and rules.
+
+Missing availability
+Inputs: power, power_A, quiet, quiet_A
+R4: power AND quiet -> needs_quiet_power
+Availability is unknown. Ask: Is room A open?
+
+Known closed
+Inputs: closed_A, power, power_A, quiet, quiet_A
+R4: power AND quiet -> needs_quiet_power
+Room A is known closed; these rules do not support recommending it.
+
+Conflicting status
+Inputs: closed_A, open_A, power, power_A, quiet, quiet_A
+Validation: Conflicting status: room A cannot be open and closed in this model.

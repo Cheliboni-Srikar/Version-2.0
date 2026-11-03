@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="435" viewBox="0 0 800 435" role="img" aria-labelledby="title">
+<title id="title">Separate general knowledge from case facts</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="43" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#222222">Separate general knowledge from case facts</text>
+<rect x="25" y="69" width="325" height="91" rx="8" fill="#f0f0f0"/>
+<text x="187.5" y="102" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Knowledge base</text>
+<text x="187.5" y="132" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">General rules for the domain</text>
+<rect x="450" y="69" width="325" height="91" rx="8" fill="#f0f0f0"/>
+<text x="612.5" y="102" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Working memory</text>
+<text x="612.5" y="132" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Facts for the current case</text>
+<path d="M188,166 L344,208" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M344,208 L334.33765486102584,210.57664246944398" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M344,208 L336.93738959550456,200.92048488423728" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M612,166 L456,208" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M456,208 L463.06261040449544,200.92048488423728" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M456,208 L465.66234513897416,210.57664246944398" stroke="#444444" stroke-width="2" fill="none"/>
+<rect x="245" y="218" width="310" height="80" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="251" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Inference engine</text>
+<text x="400.0" y="281" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Apply supported rules</text>
+<path d="M400,304 L400,328" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,328 L395.0,319.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M400,328 L405.0,319.33974596215563" stroke="#444444" stroke-width="2" fill="none"/>
+<rect x="180" y="336" width="440" height="80" rx="8" fill="#f0f0f0"/>
+<text x="400.0" y="369" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#222222">Result + explanation</text>
+<text x="400.0" y="399" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#444444">Conclusion, rules used, supporting facts</text>
+</svg>

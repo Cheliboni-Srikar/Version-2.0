@@ -1,0 +1,5 @@
+Team DLLM — Git repository handoff
+repository/ contains the study module and downloadable study files. The bundle contains the same files with their local Git commit, 3d9b25c0547859f0859cc25534193c49c47df220 (main). No GitHub remote has been configured or modified.
+To open as a local Git repository, extract the ZIP and run:
+  git clone DLLM-Study-Module.bundle DLLM-study-module
+For an existing team repository: start a branch from its current default branch. Compare repository/ with the team files, integrate only the intended revisions, and open a pull request. Do not replace the team history with the local bundle. Keep private logs out of the public repository.

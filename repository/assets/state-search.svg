@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="title">
+<title id="title">Search the branches, then recover a path</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="400.0" y="43" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#222222">Search the branches, then recover a path</text>
+<path d="M85.68301611161658,162.6703731529892 L256.3169838883834,107.32962684701079" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M256.3169838883834,107.32962684701079 L249.62167611987982,114.75746999862727" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M256.3169838883834,107.32962684701079 L246.53662913950546,105.24524180913964" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M85.4373845214521,180.05204223961584 L256.5626154785479,240.94795776038416" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M256.5626154785479,240.94795776038416 L246.72726647068922,242.7551406215282" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M256.5626154785479,240.94795776038416 L250.07987470758397,233.33388709506448" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M309.0,99.0 L703.0,99.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M703.0,99.0 L694.3397459621556,104.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M703.0,99.0 L694.3397459621556,94.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M309.0,250.0 L493.0,250.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M493.0,250.0 L484.33974596215563,255.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M493.0,250.0 L484.33974596215563,245.0" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M541.9213226444373,234.23752514614273 L708.0786773555627,114.76247485385726" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M708.0786773555627,114.76247485385726 L703.9663866638186,123.87779521392112" stroke="#444444" stroke-width="2" fill="none"/>
+<path d="M708.0786773555627,114.76247485385726 L698.1284330142419,115.75878682709251" stroke="#444444" stroke-width="2" fill="none"/>
+<circle cx="60" cy="171" r="24" fill="#f0f0f0" stroke="#444444" stroke-width="1.5"/>
+<text x="60" y="177" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#222222">S</text>
+<circle cx="282" cy="99" r="24" fill="#f0f0f0" stroke="#444444" stroke-width="1.5"/>
+<text x="282" y="105" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#222222">A</text>
+<circle cx="282" cy="250" r="24" fill="#f0f0f0" stroke="#444444" stroke-width="1.5"/>
+<text x="282" y="256" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#222222">B</text>
+<circle cx="520" cy="250" r="24" fill="#f0f0f0" stroke="#444444" stroke-width="1.5"/>
+<text x="520" y="256" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#222222">C</text>
+<circle cx="730" cy="99" r="24" fill="#f0f0f0" stroke="#444444" stroke-width="1.5"/>
+<text x="730" y="105" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="700" fill="#222222">G</text>
+<text x="400" y="322" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#444444">S = start; G = goal; each arrow has equal cost.</text>
+</svg>

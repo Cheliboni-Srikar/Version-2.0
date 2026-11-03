@@ -1,0 +1,2 @@
+# Diagram credits
+Original team-project instructional diagrams prepared with AI assistance and carried forward from V1. PNG files are used by the guide. Paired SVG files remain editable. software-layers illustrates §1.1; knowledge-relations §2.1; forward-chain and backward-chain §2.3; state-search §2.4; action-plan §2.5; expert-system §2.6. The backward-chain image is an extra offline diagram; the guide also gives a textual backward proof. See [the guide](../content/study-guide.md) for conceptual references.
